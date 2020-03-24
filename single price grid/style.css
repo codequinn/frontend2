@@ -4,7 +4,7 @@
 }
 body{
     background-color: hsl(204, 43%, 93% );
-    display: inline-flexbox;
+    display: grid;
     align-items: center;
     justify-content: center;
     font-family: 'Karla', sans-serif;
