@@ -19,7 +19,7 @@ main{
     max-width: 800px;
     margin: auto;
     overflow: hidden;
-    width: 800px;
+    width: 100%;
 }
 section{
     padding: 35px;
