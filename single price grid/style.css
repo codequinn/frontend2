@@ -33,7 +33,7 @@ section{
     color: #ffffff;
 }
 .row{
-    display: grid;
+    display: flex;
 }
 .row section{
     flex: 1.5;
